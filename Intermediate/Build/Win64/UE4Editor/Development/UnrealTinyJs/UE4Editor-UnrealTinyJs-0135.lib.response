@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UnrealTinyJs-0135.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Workspace\Unreal Projects\TinyJsProject\Intermediate\Build\Win64\TinyJsProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Workspace\Unreal Projects\TinyJsProject\Plugins\UnrealTinyJs\Intermediate\Build\Win64\UE4Editor\Development\UnrealTinyJs\Module.UnrealTinyJs.cpp.obj"
+"E:\Workspace\Unreal Projects\TinyJsProject\Plugins\UnrealTinyJs\Intermediate\Build\Win64\UE4Editor\Development\UnrealTinyJs\Module.UnrealTinyJs.gen.cpp.obj"
+"E:\Workspace\Unreal Projects\TinyJsProject\Plugins\UnrealTinyJs\Intermediate\Build\Win64\UE4Editor\Development\UnrealTinyJs\Default.rc2.res"
+/OUT:"E:\Workspace\Unreal Projects\TinyJsProject\Plugins\UnrealTinyJs\Intermediate\Build\Win64\UE4Editor\Development\UnrealTinyJs\UE4Editor-UnrealTinyJs-0135.lib"
+/INCLUDE:IMPLEMENT_MODULE_UnrealTinyJs

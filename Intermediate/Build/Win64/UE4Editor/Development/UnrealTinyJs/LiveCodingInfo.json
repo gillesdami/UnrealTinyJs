@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UnrealTinyJs.cpp.obj": [
+			"JsContext.cpp.obj",
+			"TinyJS.cpp.obj",
+			"TinyJS_Functions.cpp.obj",
+			"TinyJS_MathFunctions.cpp.obj",
+			"UnrealTinyJs.cpp.obj"
+		],
+		"Module.UnrealTinyJs.gen.cpp.obj": [
+			"JsContext.gen.cpp.obj",
+			"UnrealTinyJs.init.gen.cpp.obj"
+		]
+	}
+}

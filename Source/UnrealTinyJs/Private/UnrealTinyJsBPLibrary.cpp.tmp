@@ -1,0 +1,16 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+
+#include "UnrealTinyJsBPLibrary.h"
+#include "UnrealTinyJs.h"
+
+UUnrealTinyJsBPLibrary::UUnrealTinyJsBPLibrary(const FObjectInitializer& ObjectInitializer)
+: Super(ObjectInitializer)
+{
+
+}
+
+float UUnrealTinyJsBPLibrary::UnrealTinyJsSampleFunction(float Param)
+{
+	return -1;
+}
+

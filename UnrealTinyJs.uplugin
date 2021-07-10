@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UnrealTinyJs",
+	"Description": "A portable js interpreter and basic json functions available from blueprints",
+	"Category": "Other",
+	"CreatedBy": "Damien GILLES",
+	"CreatedByURL": "https://github.com/gillesdami/UnrealTinyJs",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UnrealTinyJs",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
